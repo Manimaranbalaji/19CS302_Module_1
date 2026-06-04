@@ -21,6 +21,8 @@ int main()
     printf("%.5f",a);
     return 0;
 }
+Developed by : Manimaran B
+Reg.No: 212223060148
 ```
 
 ## Output:
