@@ -4,23 +4,28 @@
 To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start the program.
+2. Declare a floating-point variable and initialize it with the value 5.8.
+3. Display the value of the variable using an output statement.
+4. End the output operation.
+5. Stop the program.
+  
 
 ## Program:
 ```
-/*
-Program to initialize the value as 5.8 & display the same.
-Developed by: 
-RegisterNumber:  
-*/
+#include <stdio.h>
+int main()
+{
+    float a;
+    a=5.80000;
+    printf("%.5f",a);
+    return 0;
+}
 ```
 
 ## Output:
 
+<img width="1177" height="261" alt="image" src="https://github.com/user-attachments/assets/14a491bc-5451-429c-872b-20ad8db1764b" />
 
 
 ## Result:
